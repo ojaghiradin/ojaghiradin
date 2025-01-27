@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ojaghiradin
 - 👀 I’m interested in Computer Science and Software Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, kotlin & lua
 - 📫 Reach me at ojaghiradin@proton.me
 
 <!---
